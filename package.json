@@ -4,7 +4,7 @@
   "description": "A game for learning CSS grid layout",
   "main": "game.js",
   "dependencies": {
-    "animate.css": "^3.4.0",
+    "animate.css": "^3.7.2",
     "jquery": "^3.3.1"
   },
   "devDependencies": {},
